@@ -1,0 +1,4 @@
+rootProject.name = 'aula-spring-web-mvc'
+include 'mvc-basico'
+include 'rest'
+
